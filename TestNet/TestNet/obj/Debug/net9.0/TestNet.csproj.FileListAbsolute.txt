@@ -12,3 +12,4 @@ C:\Users\jhonz\OneDrive\Escritorio\Jhon\Diplomado\TEST01\TestNet\TestNet\obj\Deb
 C:\Users\jhonz\OneDrive\Escritorio\Jhon\Diplomado\TEST01\TestNet\TestNet\obj\Debug\net9.0\TestNet.pdb
 C:\Users\jhonz\OneDrive\Escritorio\Jhon\Diplomado\TEST01\TestNet\TestNet\obj\Debug\net9.0\TestNet.genruntimeconfig.cache
 C:\Users\jhonz\OneDrive\Escritorio\Jhon\Diplomado\TEST01\TestNet\TestNet\obj\Debug\net9.0\ref\TestNet.dll
+C:\Users\jhonz\OneDrive\Escritorio\Jhon\Diplomado\TEST01\TestNet\TestNet\obj\Debug\net9.0\TestNet.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c43127b0b15b96ca002ad67bf733f10e8b3b144")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

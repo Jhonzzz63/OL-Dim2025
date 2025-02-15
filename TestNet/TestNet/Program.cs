@@ -9,6 +9,14 @@ class Prpgram
         Console.WriteLine("Introduce your name : ");
         string Name = Console.ReadLine();
 
-        Console.WriteLine($"Hola : {Name}");  
+        Console.WriteLine($"Hola : {Name}");
+        FuntionTest();
+    }
+
+    static bool FuntionTest()
+    {
+        Console.WriteLine("Funtion Test");
+
+        return true;
     }
 }
