@@ -1,0 +1,14 @@
+C:\Users\jhonz\OneDrive\Escritorio\Jhon\Diplomado\TEST01\TestNet\TestNet\bin\Debug\net9.0\TestNet.exe
+C:\Users\jhonz\OneDrive\Escritorio\Jhon\Diplomado\TEST01\TestNet\TestNet\bin\Debug\net9.0\TestNet.deps.json
+C:\Users\jhonz\OneDrive\Escritorio\Jhon\Diplomado\TEST01\TestNet\TestNet\bin\Debug\net9.0\TestNet.runtimeconfig.json
+C:\Users\jhonz\OneDrive\Escritorio\Jhon\Diplomado\TEST01\TestNet\TestNet\bin\Debug\net9.0\TestNet.dll
+C:\Users\jhonz\OneDrive\Escritorio\Jhon\Diplomado\TEST01\TestNet\TestNet\bin\Debug\net9.0\TestNet.pdb
+C:\Users\jhonz\OneDrive\Escritorio\Jhon\Diplomado\TEST01\TestNet\TestNet\obj\Debug\net9.0\TestNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhonz\OneDrive\Escritorio\Jhon\Diplomado\TEST01\TestNet\TestNet\obj\Debug\net9.0\TestNet.AssemblyInfoInputs.cache
+C:\Users\jhonz\OneDrive\Escritorio\Jhon\Diplomado\TEST01\TestNet\TestNet\obj\Debug\net9.0\TestNet.AssemblyInfo.cs
+C:\Users\jhonz\OneDrive\Escritorio\Jhon\Diplomado\TEST01\TestNet\TestNet\obj\Debug\net9.0\TestNet.csproj.CoreCompileInputs.cache
+C:\Users\jhonz\OneDrive\Escritorio\Jhon\Diplomado\TEST01\TestNet\TestNet\obj\Debug\net9.0\TestNet.dll
+C:\Users\jhonz\OneDrive\Escritorio\Jhon\Diplomado\TEST01\TestNet\TestNet\obj\Debug\net9.0\refint\TestNet.dll
+C:\Users\jhonz\OneDrive\Escritorio\Jhon\Diplomado\TEST01\TestNet\TestNet\obj\Debug\net9.0\TestNet.pdb
+C:\Users\jhonz\OneDrive\Escritorio\Jhon\Diplomado\TEST01\TestNet\TestNet\obj\Debug\net9.0\TestNet.genruntimeconfig.cache
+C:\Users\jhonz\OneDrive\Escritorio\Jhon\Diplomado\TEST01\TestNet\TestNet\obj\Debug\net9.0\ref\TestNet.dll

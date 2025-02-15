@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hMbw/ZSBXT4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jhonz\\OneDrive\\Escritorio\\Jhon\\Diplomado\\TEST01\\TestNet\\TestNet\\TestNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhonz\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
